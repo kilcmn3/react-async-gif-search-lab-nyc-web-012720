@@ -32,6 +32,8 @@
   "author": "Ian Candy",
   "license": "MIT",
   "dependencies": {
+    "@giphy/js-fetch-api": "^1.5.6",
+    "@giphy/react-components": "^1.0.0",
     "babel-core": "^6.26.3",
     "babel-preset-airbnb": "^2.5.3",
     "bootstrap": "^3.4.1",
